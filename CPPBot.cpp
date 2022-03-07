@@ -22,7 +22,7 @@ int main() {
 	i >> j;
 	init();
 	system("clear");
-	cout << "GrowtopiaBot v1.0 [Not included QT]! by GrowtopiaNoobs and DrOreo002" << endl;
+	cout << "Growtopia Crasher By Kyy" << endl;
 	
 	if (j["ip"] == "Ip Target")
 	{
@@ -39,10 +39,10 @@ int main() {
 	cout << "[+] ky   ky           ky ky        ky ky" << endl;
 	cout << "[+] ky ky              ky           ky" << endl;
 	cout << "[+] ky ky              ky           ky" << endl;
-	cout << "[+] ky   ky            ky			 ky" << endl;
-	cout << "[+] ky     ky          ky			 ky" << endl;
+	cout << "[+] ky   ky            ky           ky" << endl;
+	cout << "[+] ky     ky          ky	     ky" << endl;
 	cout << "[+] ky       ky        ky           ky" << endl;
-	cout << "[+] ky        ky       ky			 ky" << endl;
+	cout << "[+] ky        ky       ky	     ky" << endl;
 	cout << "=============================================" << endl;
 	cout << "[!] GtBot Crasher By Kyy" << endl;
 	cout << "[!] Don't Leak This Tool" << endl;
